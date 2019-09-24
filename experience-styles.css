@@ -60,6 +60,7 @@
     background-size: cover;
     overflow: hidden;
     padding: 0px;
+    background-position: center;
   }
 
   header {
